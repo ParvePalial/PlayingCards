@@ -9,10 +9,9 @@ Semantic segmentation using U-Net architecture
 52-class classification (all standard playing cards)
 Cross-platform React Native Expo app
 
-<video width="600" controls>
-  <source src="DemoVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo Video
+
+[▶️ Watch Demo Video](./DemoVideo.mp4)
 
 📊 Performance Metrics
 MetricScoreMean IoU87.34% ± 5.21%Dice Coefficient93.12% ± 2.98%Pixel Accuracy95.67% ± 1.89%
