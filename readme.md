@@ -130,16 +130,9 @@ Easy-to-use interface
 Course: Computer Vision and Image Processing
 Student: Parve Palial (Roll: 23117027)
 Date: November 2, 2025
-📄 License
-[Add your license here]
 🙏 Acknowledgments
 
 Dataset: Kaggle Cards Image Dataset
 U-Net Architecture: Ronneberger et al.
 Framework: PyTorch, React Native Expo
 
-📞 Contact
-For questions or collaboration:
-
-GitHub: [Your GitHub]
-Email: [Your Email]
